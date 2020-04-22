@@ -1,0 +1,21 @@
+nav {
+    background: #000;
+}
+header li {
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 30px;
+    margin-bottom: 0;
+    padding: 10px 0;
+}
+header li a {
+    text-decoration: none;
+    font-size: 22px;
+    color: cadetblue;
+}
+header li a:hover {
+    color: #fff;
+}
+header li a.active {
+    color:#fff
+}
